@@ -5,7 +5,7 @@
 Suryakant Acharya, Sanjeet Raj, Gaurav Pandey, Priyanshu Ranjan
 
 ## Idea PPT
-[ppthackofest.pptx](https://github.com/Sanjeet4567/scanwiz/files/14897333/ppthackofest.pptx)
+[Click here to view the PPT](https://github.com/Sanjeet4567/scanwiz/files/14897333/ppthackofest.pptx)
 
 
 ## Presentation Video
