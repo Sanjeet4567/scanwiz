@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'package:scanwiz/home.dart';
+import 'package:scanwiz/home_page.dart';
 import 'package:scanwiz/mobile1.dart';
 import 'package:scanwiz/mobile2.dart';
 
@@ -14,7 +13,7 @@ class app extends StatefulWidget {
 class _appState extends State<app> {
   int myindex = 0;
   static const List<Widget> widgetList = [
-    MyHomePage(),
+    HomePage(),
     Mobile1(),
     Mobile2(),
   ];
